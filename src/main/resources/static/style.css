@@ -1,0 +1,21 @@
+html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+head{
+    font-family: 'Gamja Flower', cursive;
+    font-size: 35px;
+}
+body{
+    text-align: center;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Gamja Flower', cursive;
+}
+#chuck {
+    text-align: center;
+
+}
